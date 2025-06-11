@@ -9,7 +9,7 @@
   },
   "private": true,
   "dependencies": {
-    "@nrwl/next": "12.10.1",
+    "@nrwl/next": "14.7.6",
     "@talisman-components/nft": "^0.0.1",
     "core-js": "^3.6.5",
     "next": "11.1.0",
